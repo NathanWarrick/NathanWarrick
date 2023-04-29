@@ -16,10 +16,7 @@ Lover of productivity and automation and creation of software that does my job f
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 31 mins   ██████████████▓░░░░░░░░░░   59.26 %
-JSON         1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-JavaScript   1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Other      2 hrs 10 mins   ████████████████████░░░░░   80.49 %
 ```
 
 <!--END_SECTION:waka-->
