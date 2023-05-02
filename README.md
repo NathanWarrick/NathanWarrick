@@ -16,7 +16,7 @@ Lover of productivity and automation and creation of software that does my job f
 <!--START_SECTION:waka-->
 
 ```text
-Other      2 hrs 10 mins   ███████████████████▓░░░░░   78.82 %
+Other       2 hrs 11 mins   ████████████████░░░░░░░░░   63.66 %
 ```
 
 <!--END_SECTION:waka-->
