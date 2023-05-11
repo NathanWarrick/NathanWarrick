@@ -16,10 +16,8 @@ Lover of productivity and automation and creation of software that does my job f
 <!--START_SECTION:waka-->
 
 ```text
-Python   13 mins         ██████████████░░░░░░░░░░░   56.21 %
-Bash     10 mins         ██████████▒░░░░░░░░░░░░░░   41.86 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Bash    10 mins         ████████████████████████▓   98.67 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
