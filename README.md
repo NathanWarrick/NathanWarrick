@@ -16,8 +16,7 @@ Lover of productivity and automation and creation of software that does my job f
 <!--START_SECTION:waka-->
 
 ```text
-Bash    10 mins         ████████████████████████▓   98.67 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
