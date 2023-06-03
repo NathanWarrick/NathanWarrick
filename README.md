@@ -15,7 +15,7 @@ Lover of productivity and automation and creation of software that does my job f
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
